@@ -1,0 +1,11 @@
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\OopInheritance\bin\Debug\netcoreapp2.1\Oop-5-Inheritance.deps.json
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\OopInheritance\bin\Debug\netcoreapp2.1\Oop-5-Inheritance.runtimeconfig.json
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\OopInheritance\bin\Debug\netcoreapp2.1\Oop-5-Inheritance.runtimeconfig.dev.json
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\OopInheritance\bin\Debug\netcoreapp2.1\Oop-5-Inheritance.dll
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\OopInheritance\bin\Debug\netcoreapp2.1\Oop-5-Inheritance.pdb
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\OopInheritance\obj\Debug\netcoreapp2.1\Oop-5-Inheritance.csprojAssemblyReference.cache
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\OopInheritance\obj\Debug\netcoreapp2.1\Oop-5-Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\OopInheritance\obj\Debug\netcoreapp2.1\Oop-5-Inheritance.AssemblyInfoInputs.cache
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\OopInheritance\obj\Debug\netcoreapp2.1\Oop-5-Inheritance.AssemblyInfo.cs
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\OopInheritance\obj\Debug\netcoreapp2.1\Oop-5-Inheritance.dll
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\OopInheritance\obj\Debug\netcoreapp2.1\Oop-5-Inheritance.pdb

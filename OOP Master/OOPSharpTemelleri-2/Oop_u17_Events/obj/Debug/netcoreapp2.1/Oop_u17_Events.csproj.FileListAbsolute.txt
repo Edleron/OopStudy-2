@@ -1,0 +1,11 @@
+C:\Users\Edleron\source\repos\Oop_r14_Attribute\Oop_u17_Events\obj\Debug\netcoreapp2.1\Oop_u17_Events.csprojAssemblyReference.cache
+C:\Users\Edleron\source\repos\Oop_r14_Attribute\Oop_u17_Events\obj\Debug\netcoreapp2.1\Oop_u17_Events.csproj.CoreCompileInputs.cache
+C:\Users\Edleron\source\repos\Oop_r14_Attribute\Oop_u17_Events\obj\Debug\netcoreapp2.1\Oop_u17_Events.AssemblyInfoInputs.cache
+C:\Users\Edleron\source\repos\Oop_r14_Attribute\Oop_u17_Events\obj\Debug\netcoreapp2.1\Oop_u17_Events.AssemblyInfo.cs
+C:\Users\Edleron\source\repos\Oop_r14_Attribute\Oop_u17_Events\bin\Debug\netcoreapp2.1\Oop_u17_Events.deps.json
+C:\Users\Edleron\source\repos\Oop_r14_Attribute\Oop_u17_Events\bin\Debug\netcoreapp2.1\Oop_u17_Events.runtimeconfig.json
+C:\Users\Edleron\source\repos\Oop_r14_Attribute\Oop_u17_Events\bin\Debug\netcoreapp2.1\Oop_u17_Events.runtimeconfig.dev.json
+C:\Users\Edleron\source\repos\Oop_r14_Attribute\Oop_u17_Events\bin\Debug\netcoreapp2.1\Oop_u17_Events.dll
+C:\Users\Edleron\source\repos\Oop_r14_Attribute\Oop_u17_Events\bin\Debug\netcoreapp2.1\Oop_u17_Events.pdb
+C:\Users\Edleron\source\repos\Oop_r14_Attribute\Oop_u17_Events\obj\Debug\netcoreapp2.1\Oop_u17_Events.dll
+C:\Users\Edleron\source\repos\Oop_r14_Attribute\Oop_u17_Events\obj\Debug\netcoreapp2.1\Oop_u17_Events.pdb

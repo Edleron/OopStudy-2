@@ -1,0 +1,11 @@
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop4Interface\bin\Debug\netcoreapp2.1\Oop4InterfacePolymorphism.deps.json
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop4Interface\bin\Debug\netcoreapp2.1\Oop4InterfacePolymorphism.runtimeconfig.json
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop4Interface\bin\Debug\netcoreapp2.1\Oop4InterfacePolymorphism.runtimeconfig.dev.json
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop4Interface\bin\Debug\netcoreapp2.1\Oop4InterfacePolymorphism.dll
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop4Interface\bin\Debug\netcoreapp2.1\Oop4InterfacePolymorphism.pdb
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop4Interface\obj\Debug\netcoreapp2.1\Oop4InterfacePolymorphism.csprojAssemblyReference.cache
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop4Interface\obj\Debug\netcoreapp2.1\Oop4InterfacePolymorphism.csproj.CoreCompileInputs.cache
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop4Interface\obj\Debug\netcoreapp2.1\Oop4InterfacePolymorphism.AssemblyInfoInputs.cache
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop4Interface\obj\Debug\netcoreapp2.1\Oop4InterfacePolymorphism.AssemblyInfo.cs
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop4Interface\obj\Debug\netcoreapp2.1\Oop4InterfacePolymorphism.dll
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop4Interface\obj\Debug\netcoreapp2.1\Oop4InterfacePolymorphism.pdb

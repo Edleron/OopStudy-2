@@ -1,0 +1,11 @@
+C:\Users\Edleron\source\repos\Oop_r14_Attribute\Oop_s15_Reflections\bin\Debug\netcoreapp2.1\Oop_s15_Reflections.deps.json
+C:\Users\Edleron\source\repos\Oop_r14_Attribute\Oop_s15_Reflections\bin\Debug\netcoreapp2.1\Oop_s15_Reflections.runtimeconfig.json
+C:\Users\Edleron\source\repos\Oop_r14_Attribute\Oop_s15_Reflections\bin\Debug\netcoreapp2.1\Oop_s15_Reflections.runtimeconfig.dev.json
+C:\Users\Edleron\source\repos\Oop_r14_Attribute\Oop_s15_Reflections\bin\Debug\netcoreapp2.1\Oop_s15_Reflections.dll
+C:\Users\Edleron\source\repos\Oop_r14_Attribute\Oop_s15_Reflections\bin\Debug\netcoreapp2.1\Oop_s15_Reflections.pdb
+C:\Users\Edleron\source\repos\Oop_r14_Attribute\Oop_s15_Reflections\obj\Debug\netcoreapp2.1\Oop_s15_Reflections.csprojAssemblyReference.cache
+C:\Users\Edleron\source\repos\Oop_r14_Attribute\Oop_s15_Reflections\obj\Debug\netcoreapp2.1\Oop_s15_Reflections.csproj.CoreCompileInputs.cache
+C:\Users\Edleron\source\repos\Oop_r14_Attribute\Oop_s15_Reflections\obj\Debug\netcoreapp2.1\Oop_s15_Reflections.AssemblyInfoInputs.cache
+C:\Users\Edleron\source\repos\Oop_r14_Attribute\Oop_s15_Reflections\obj\Debug\netcoreapp2.1\Oop_s15_Reflections.AssemblyInfo.cs
+C:\Users\Edleron\source\repos\Oop_r14_Attribute\Oop_s15_Reflections\obj\Debug\netcoreapp2.1\Oop_s15_Reflections.dll
+C:\Users\Edleron\source\repos\Oop_r14_Attribute\Oop_s15_Reflections\obj\Debug\netcoreapp2.1\Oop_s15_Reflections.pdb

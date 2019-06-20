@@ -1,0 +1,10 @@
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop2Classes\bin\Debug\netcoreapp2.1\Oop-2-Classes.deps.json
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop2Classes\bin\Debug\netcoreapp2.1\Oop-2-Classes.runtimeconfig.json
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop2Classes\bin\Debug\netcoreapp2.1\Oop-2-Classes.runtimeconfig.dev.json
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop2Classes\bin\Debug\netcoreapp2.1\Oop-2-Classes.dll
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop2Classes\bin\Debug\netcoreapp2.1\Oop-2-Classes.pdb
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop2Classes\obj\Debug\netcoreapp2.1\Oop-2-Classes.csproj.CoreCompileInputs.cache
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop2Classes\obj\Debug\netcoreapp2.1\Oop-2-Classes.AssemblyInfoInputs.cache
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop2Classes\obj\Debug\netcoreapp2.1\Oop-2-Classes.AssemblyInfo.cs
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop2Classes\obj\Debug\netcoreapp2.1\Oop-2-Classes.dll
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop2Classes\obj\Debug\netcoreapp2.1\Oop-2-Classes.pdb

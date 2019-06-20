@@ -1,0 +1,10 @@
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop_k11_Collections\bin\Debug\netcoreapp2.1\Oop_k11_Collections.deps.json
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop_k11_Collections\bin\Debug\netcoreapp2.1\Oop_k11_Collections.runtimeconfig.json
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop_k11_Collections\bin\Debug\netcoreapp2.1\Oop_k11_Collections.runtimeconfig.dev.json
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop_k11_Collections\bin\Debug\netcoreapp2.1\Oop_k11_Collections.dll
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop_k11_Collections\bin\Debug\netcoreapp2.1\Oop_k11_Collections.pdb
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop_k11_Collections\obj\Debug\netcoreapp2.1\Oop_k11_Collections.csproj.CoreCompileInputs.cache
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop_k11_Collections\obj\Debug\netcoreapp2.1\Oop_k11_Collections.AssemblyInfoInputs.cache
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop_k11_Collections\obj\Debug\netcoreapp2.1\Oop_k11_Collections.AssemblyInfo.cs
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop_k11_Collections\obj\Debug\netcoreapp2.1\Oop_k11_Collections.dll
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop_k11_Collections\obj\Debug\netcoreapp2.1\Oop_k11_Collections.pdb

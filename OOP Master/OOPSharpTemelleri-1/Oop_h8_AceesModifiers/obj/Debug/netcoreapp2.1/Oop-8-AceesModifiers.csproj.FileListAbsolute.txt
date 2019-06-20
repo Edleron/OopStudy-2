@@ -1,0 +1,10 @@
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\AceesModifiers\bin\Debug\netcoreapp2.1\Oop-8-AceesModifiers.deps.json
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\AceesModifiers\bin\Debug\netcoreapp2.1\Oop-8-AceesModifiers.runtimeconfig.json
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\AceesModifiers\bin\Debug\netcoreapp2.1\Oop-8-AceesModifiers.runtimeconfig.dev.json
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\AceesModifiers\bin\Debug\netcoreapp2.1\Oop-8-AceesModifiers.dll
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\AceesModifiers\bin\Debug\netcoreapp2.1\Oop-8-AceesModifiers.pdb
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\AceesModifiers\obj\Debug\netcoreapp2.1\Oop-8-AceesModifiers.csproj.CoreCompileInputs.cache
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\AceesModifiers\obj\Debug\netcoreapp2.1\Oop-8-AceesModifiers.AssemblyInfoInputs.cache
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\AceesModifiers\obj\Debug\netcoreapp2.1\Oop-8-AceesModifiers.AssemblyInfo.cs
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\AceesModifiers\obj\Debug\netcoreapp2.1\Oop-8-AceesModifiers.dll
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\AceesModifiers\obj\Debug\netcoreapp2.1\Oop-8-AceesModifiers.pdb

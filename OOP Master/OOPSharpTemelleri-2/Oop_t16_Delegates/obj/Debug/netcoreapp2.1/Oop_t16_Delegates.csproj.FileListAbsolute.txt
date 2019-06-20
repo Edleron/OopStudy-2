@@ -1,0 +1,11 @@
+C:\Users\Edleron\source\repos\Oop_r14_Attribute\Oop_t16_Delegates\bin\Debug\netcoreapp2.1\Oop_t16_Delegates.deps.json
+C:\Users\Edleron\source\repos\Oop_r14_Attribute\Oop_t16_Delegates\bin\Debug\netcoreapp2.1\Oop_t16_Delegates.runtimeconfig.json
+C:\Users\Edleron\source\repos\Oop_r14_Attribute\Oop_t16_Delegates\bin\Debug\netcoreapp2.1\Oop_t16_Delegates.runtimeconfig.dev.json
+C:\Users\Edleron\source\repos\Oop_r14_Attribute\Oop_t16_Delegates\bin\Debug\netcoreapp2.1\Oop_t16_Delegates.dll
+C:\Users\Edleron\source\repos\Oop_r14_Attribute\Oop_t16_Delegates\bin\Debug\netcoreapp2.1\Oop_t16_Delegates.pdb
+C:\Users\Edleron\source\repos\Oop_r14_Attribute\Oop_t16_Delegates\obj\Debug\netcoreapp2.1\Oop_t16_Delegates.csprojAssemblyReference.cache
+C:\Users\Edleron\source\repos\Oop_r14_Attribute\Oop_t16_Delegates\obj\Debug\netcoreapp2.1\Oop_t16_Delegates.csproj.CoreCompileInputs.cache
+C:\Users\Edleron\source\repos\Oop_r14_Attribute\Oop_t16_Delegates\obj\Debug\netcoreapp2.1\Oop_t16_Delegates.AssemblyInfoInputs.cache
+C:\Users\Edleron\source\repos\Oop_r14_Attribute\Oop_t16_Delegates\obj\Debug\netcoreapp2.1\Oop_t16_Delegates.AssemblyInfo.cs
+C:\Users\Edleron\source\repos\Oop_r14_Attribute\Oop_t16_Delegates\obj\Debug\netcoreapp2.1\Oop_t16_Delegates.dll
+C:\Users\Edleron\source\repos\Oop_r14_Attribute\Oop_t16_Delegates\obj\Debug\netcoreapp2.1\Oop_t16_Delegates.pdb

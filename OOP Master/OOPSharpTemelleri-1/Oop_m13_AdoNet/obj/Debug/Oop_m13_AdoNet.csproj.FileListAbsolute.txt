@@ -1,0 +1,10 @@
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop_m13_AdoNet\bin\Debug\Oop_m13_AdoNet.exe.config
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop_m13_AdoNet\bin\Debug\Oop_m13_AdoNet.exe
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop_m13_AdoNet\bin\Debug\Oop_m13_AdoNet.pdb
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop_m13_AdoNet\obj\Debug\Oop_m13_AdoNet.csprojAssemblyReference.cache
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop_m13_AdoNet\obj\Debug\Oop_m13_AdoNet.Form1.resources
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop_m13_AdoNet\obj\Debug\Oop_m13_AdoNet.Properties.Resources.resources
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop_m13_AdoNet\obj\Debug\Oop_m13_AdoNet.csproj.GenerateResource.cache
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop_m13_AdoNet\obj\Debug\Oop_m13_AdoNet.csproj.CoreCompileInputs.cache
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop_m13_AdoNet\obj\Debug\Oop_m13_AdoNet.exe
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop_m13_AdoNet\obj\Debug\Oop_m13_AdoNet.pdb

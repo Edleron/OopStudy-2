@@ -1,0 +1,56 @@
+C:\Users\Edleron\source\repos\Oop_x_NlayeredApp\Northwind.DataAccess\bin\Debug\Northwind.DataAccess.dll.config
+C:\Users\Edleron\source\repos\Oop_x_NlayeredApp\Northwind.DataAccess\bin\Debug\Northwind.DataAccess.dll
+C:\Users\Edleron\source\repos\Oop_x_NlayeredApp\Northwind.DataAccess\bin\Debug\Northwind.DataAccess.pdb
+C:\Users\Edleron\source\repos\Oop_x_NlayeredApp\Northwind.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Edleron\source\repos\Oop_x_NlayeredApp\Northwind.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Edleron\source\repos\Oop_x_NlayeredApp\Northwind.DataAccess\bin\Debug\Northwind.Entites.dll
+C:\Users\Edleron\source\repos\Oop_x_NlayeredApp\Northwind.DataAccess\bin\Debug\Northwind.Entites.pdb
+C:\Users\Edleron\source\repos\Oop_x_NlayeredApp\Northwind.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Edleron\source\repos\Oop_x_NlayeredApp\Northwind.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Edleron\source\repos\Oop_x_NlayeredApp\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.csprojAssemblyReference.cache
+C:\Users\Edleron\source\repos\Oop_x_NlayeredApp\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Edleron\source\repos\Oop_x_NlayeredApp\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.csproj.CopyComplete
+C:\Users\Edleron\source\repos\Oop_x_NlayeredApp\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.dll
+C:\Users\Edleron\source\repos\Oop_x_NlayeredApp\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.pdb
+K:\Oop_x_NlayeredApp\Northwind.DataAccess\bin\Debug\Northwind.DataAccess.dll.config
+K:\Oop_x_NlayeredApp\Northwind.DataAccess\bin\Debug\Northwind.DataAccess.dll
+K:\Oop_x_NlayeredApp\Northwind.DataAccess\bin\Debug\Northwind.DataAccess.pdb
+K:\Oop_x_NlayeredApp\Northwind.DataAccess\bin\Debug\EntityFramework.dll
+K:\Oop_x_NlayeredApp\Northwind.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+K:\Oop_x_NlayeredApp\Northwind.DataAccess\bin\Debug\Northwind.Entites.dll
+K:\Oop_x_NlayeredApp\Northwind.DataAccess\bin\Debug\Northwind.Entites.pdb
+K:\Oop_x_NlayeredApp\Northwind.DataAccess\bin\Debug\EntityFramework.xml
+K:\Oop_x_NlayeredApp\Northwind.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+K:\Oop_x_NlayeredApp\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.csprojAssemblyReference.cache
+K:\Oop_x_NlayeredApp\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.csproj.CoreCompileInputs.cache
+K:\Oop_x_NlayeredApp\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.csproj.CopyComplete
+K:\Oop_x_NlayeredApp\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.dll
+K:\Oop_x_NlayeredApp\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.pdb
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.DataAccess\bin\Debug\Northwind.DataAccess.dll.config
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.DataAccess\bin\Debug\Northwind.DataAccess.dll
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.DataAccess\bin\Debug\Northwind.DataAccess.pdb
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.DataAccess\bin\Debug\Northwind.Entites.dll
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.DataAccess\bin\Debug\Northwind.Entites.pdb
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.csprojAssemblyReference.cache
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.csproj.CopyComplete
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.dll
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.pdb
+C:\Users\Edleron\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.DataAccess\bin\Debug\Northwind.DataAccess.dll.config
+C:\Users\Edleron\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.DataAccess\bin\Debug\Northwind.DataAccess.dll
+C:\Users\Edleron\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.DataAccess\bin\Debug\Northwind.DataAccess.pdb
+C:\Users\Edleron\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Edleron\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Edleron\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.DataAccess\bin\Debug\Northwind.Entites.dll
+C:\Users\Edleron\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.DataAccess\bin\Debug\Northwind.Entites.pdb
+C:\Users\Edleron\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Edleron\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Edleron\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.csprojAssemblyReference.cache
+C:\Users\Edleron\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Edleron\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.csproj.CopyComplete
+C:\Users\Edleron\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.dll
+C:\Users\Edleron\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.pdb

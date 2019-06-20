@@ -1,0 +1,10 @@
+C:\Users\Edleron\source\repos\Oop_r14_Attribute\Oop_V18_RecapProjects\bin\Debug\Oop_V18_RecapProjects.exe.config
+C:\Users\Edleron\source\repos\Oop_r14_Attribute\Oop_V18_RecapProjects\bin\Debug\Oop_V18_RecapProjects.exe
+C:\Users\Edleron\source\repos\Oop_r14_Attribute\Oop_V18_RecapProjects\bin\Debug\Oop_V18_RecapProjects.pdb
+C:\Users\Edleron\source\repos\Oop_r14_Attribute\Oop_V18_RecapProjects\obj\Debug\Oop_V18_RecapProjects.csprojAssemblyReference.cache
+C:\Users\Edleron\source\repos\Oop_r14_Attribute\Oop_V18_RecapProjects\obj\Debug\Oop_V18_RecapProjects.RecapDemo.resources
+C:\Users\Edleron\source\repos\Oop_r14_Attribute\Oop_V18_RecapProjects\obj\Debug\Oop_V18_RecapProjects.Properties.Resources.resources
+C:\Users\Edleron\source\repos\Oop_r14_Attribute\Oop_V18_RecapProjects\obj\Debug\Oop_V18_RecapProjects.csproj.GenerateResource.cache
+C:\Users\Edleron\source\repos\Oop_r14_Attribute\Oop_V18_RecapProjects\obj\Debug\Oop_V18_RecapProjects.csproj.CoreCompileInputs.cache
+C:\Users\Edleron\source\repos\Oop_r14_Attribute\Oop_V18_RecapProjects\obj\Debug\Oop_V18_RecapProjects.exe
+C:\Users\Edleron\source\repos\Oop_r14_Attribute\Oop_V18_RecapProjects\obj\Debug\Oop_V18_RecapProjects.pdb

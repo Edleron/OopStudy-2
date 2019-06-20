@@ -1,0 +1,33 @@
+C:\Users\Edleron\source\repos\Oop_r14_Attribute\Oop_r14_Attribute\bin\Debug\netcoreapp2.1\Oop_r14_Attribute.deps.json
+C:\Users\Edleron\source\repos\Oop_r14_Attribute\Oop_r14_Attribute\bin\Debug\netcoreapp2.1\Oop_r14_Attribute.runtimeconfig.json
+C:\Users\Edleron\source\repos\Oop_r14_Attribute\Oop_r14_Attribute\bin\Debug\netcoreapp2.1\Oop_r14_Attribute.runtimeconfig.dev.json
+C:\Users\Edleron\source\repos\Oop_r14_Attribute\Oop_r14_Attribute\bin\Debug\netcoreapp2.1\Oop_r14_Attribute.dll
+C:\Users\Edleron\source\repos\Oop_r14_Attribute\Oop_r14_Attribute\bin\Debug\netcoreapp2.1\Oop_r14_Attribute.pdb
+C:\Users\Edleron\source\repos\Oop_r14_Attribute\Oop_r14_Attribute\obj\Debug\netcoreapp2.1\Oop_r14_Attribute.csprojAssemblyReference.cache
+C:\Users\Edleron\source\repos\Oop_r14_Attribute\Oop_r14_Attribute\obj\Debug\netcoreapp2.1\Oop_r14_Attribute.csproj.CoreCompileInputs.cache
+C:\Users\Edleron\source\repos\Oop_r14_Attribute\Oop_r14_Attribute\obj\Debug\netcoreapp2.1\Oop_r14_Attribute.AssemblyInfoInputs.cache
+C:\Users\Edleron\source\repos\Oop_r14_Attribute\Oop_r14_Attribute\obj\Debug\netcoreapp2.1\Oop_r14_Attribute.AssemblyInfo.cs
+C:\Users\Edleron\source\repos\Oop_r14_Attribute\Oop_r14_Attribute\obj\Debug\netcoreapp2.1\Oop_r14_Attribute.dll
+C:\Users\Edleron\source\repos\Oop_r14_Attribute\Oop_r14_Attribute\obj\Debug\netcoreapp2.1\Oop_r14_Attribute.pdb
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri\OOPSharpTemelleri-2\Oop_r14_Attribute\bin\Debug\netcoreapp2.1\Oop_r14_Attribute.deps.json
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri\OOPSharpTemelleri-2\Oop_r14_Attribute\bin\Debug\netcoreapp2.1\Oop_r14_Attribute.runtimeconfig.json
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri\OOPSharpTemelleri-2\Oop_r14_Attribute\bin\Debug\netcoreapp2.1\Oop_r14_Attribute.runtimeconfig.dev.json
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri\OOPSharpTemelleri-2\Oop_r14_Attribute\bin\Debug\netcoreapp2.1\Oop_r14_Attribute.dll
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri\OOPSharpTemelleri-2\Oop_r14_Attribute\bin\Debug\netcoreapp2.1\Oop_r14_Attribute.pdb
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri\OOPSharpTemelleri-2\Oop_r14_Attribute\obj\Debug\netcoreapp2.1\Oop_r14_Attribute.csprojAssemblyReference.cache
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri\OOPSharpTemelleri-2\Oop_r14_Attribute\obj\Debug\netcoreapp2.1\Oop_r14_Attribute.csproj.CoreCompileInputs.cache
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri\OOPSharpTemelleri-2\Oop_r14_Attribute\obj\Debug\netcoreapp2.1\Oop_r14_Attribute.AssemblyInfoInputs.cache
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri\OOPSharpTemelleri-2\Oop_r14_Attribute\obj\Debug\netcoreapp2.1\Oop_r14_Attribute.AssemblyInfo.cs
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri\OOPSharpTemelleri-2\Oop_r14_Attribute\obj\Debug\netcoreapp2.1\Oop_r14_Attribute.dll
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri\OOPSharpTemelleri-2\Oop_r14_Attribute\obj\Debug\netcoreapp2.1\Oop_r14_Attribute.pdb
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-2\Oop_r14_Attribute\bin\Debug\netcoreapp2.1\Oop_r14_Attribute.deps.json
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-2\Oop_r14_Attribute\bin\Debug\netcoreapp2.1\Oop_r14_Attribute.runtimeconfig.json
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-2\Oop_r14_Attribute\bin\Debug\netcoreapp2.1\Oop_r14_Attribute.runtimeconfig.dev.json
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-2\Oop_r14_Attribute\bin\Debug\netcoreapp2.1\Oop_r14_Attribute.dll
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-2\Oop_r14_Attribute\bin\Debug\netcoreapp2.1\Oop_r14_Attribute.pdb
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-2\Oop_r14_Attribute\obj\Debug\netcoreapp2.1\Oop_r14_Attribute.csprojAssemblyReference.cache
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-2\Oop_r14_Attribute\obj\Debug\netcoreapp2.1\Oop_r14_Attribute.csproj.CoreCompileInputs.cache
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-2\Oop_r14_Attribute\obj\Debug\netcoreapp2.1\Oop_r14_Attribute.AssemblyInfoInputs.cache
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-2\Oop_r14_Attribute\obj\Debug\netcoreapp2.1\Oop_r14_Attribute.AssemblyInfo.cs
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-2\Oop_r14_Attribute\obj\Debug\netcoreapp2.1\Oop_r14_Attribute.dll
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-2\Oop_r14_Attribute\obj\Debug\netcoreapp2.1\Oop_r14_Attribute.pdb

@@ -1,0 +1,10 @@
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop_l12_Exceptions\bin\Debug\netcoreapp2.1\Oop_l12_Exceptions.deps.json
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop_l12_Exceptions\bin\Debug\netcoreapp2.1\Oop_l12_Exceptions.runtimeconfig.json
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop_l12_Exceptions\bin\Debug\netcoreapp2.1\Oop_l12_Exceptions.runtimeconfig.dev.json
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop_l12_Exceptions\bin\Debug\netcoreapp2.1\Oop_l12_Exceptions.dll
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop_l12_Exceptions\bin\Debug\netcoreapp2.1\Oop_l12_Exceptions.pdb
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop_l12_Exceptions\obj\Debug\netcoreapp2.1\Oop_l12_Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop_l12_Exceptions\obj\Debug\netcoreapp2.1\Oop_l12_Exceptions.AssemblyInfoInputs.cache
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop_l12_Exceptions\obj\Debug\netcoreapp2.1\Oop_l12_Exceptions.AssemblyInfo.cs
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop_l12_Exceptions\obj\Debug\netcoreapp2.1\Oop_l12_Exceptions.dll
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop_l12_Exceptions\obj\Debug\netcoreapp2.1\Oop_l12_Exceptions.pdb

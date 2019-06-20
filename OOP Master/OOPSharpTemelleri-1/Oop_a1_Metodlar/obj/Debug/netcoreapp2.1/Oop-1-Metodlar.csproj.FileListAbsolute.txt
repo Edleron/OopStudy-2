@@ -1,0 +1,10 @@
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop1Metodlar\bin\Debug\netcoreapp2.1\Oop-1-Metodlar.deps.json
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop1Metodlar\bin\Debug\netcoreapp2.1\Oop-1-Metodlar.runtimeconfig.json
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop1Metodlar\bin\Debug\netcoreapp2.1\Oop-1-Metodlar.runtimeconfig.dev.json
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop1Metodlar\bin\Debug\netcoreapp2.1\Oop-1-Metodlar.dll
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop1Metodlar\bin\Debug\netcoreapp2.1\Oop-1-Metodlar.pdb
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop1Metodlar\obj\Debug\netcoreapp2.1\Oop-1-Metodlar.csproj.CoreCompileInputs.cache
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop1Metodlar\obj\Debug\netcoreapp2.1\Oop-1-Metodlar.AssemblyInfoInputs.cache
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop1Metodlar\obj\Debug\netcoreapp2.1\Oop-1-Metodlar.AssemblyInfo.cs
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop1Metodlar\obj\Debug\netcoreapp2.1\Oop-1-Metodlar.dll
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop1Metodlar\obj\Debug\netcoreapp2.1\Oop-1-Metodlar.pdb

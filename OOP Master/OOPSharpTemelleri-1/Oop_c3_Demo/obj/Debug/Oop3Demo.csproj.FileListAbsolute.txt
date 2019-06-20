@@ -1,0 +1,10 @@
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop3Demo\bin\Debug\Oop3Demo.exe.config
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop3Demo\bin\Debug\Oop3Demo.exe
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop3Demo\bin\Debug\Oop3Demo.pdb
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop3Demo\obj\Debug\Oop3Demo.csprojAssemblyReference.cache
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop3Demo\obj\Debug\Oop3Demo.Form1.resources
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop3Demo\obj\Debug\Oop3Demo.Properties.Resources.resources
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop3Demo\obj\Debug\Oop3Demo.csproj.GenerateResource.cache
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop3Demo\obj\Debug\Oop3Demo.csproj.CoreCompileInputs.cache
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop3Demo\obj\Debug\Oop3Demo.exe
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop3Demo\obj\Debug\Oop3Demo.pdb

@@ -1,0 +1,30 @@
+C:\Users\Edleron\source\repos\Oop_r14_Attribute\Oop_V19_RecapProjects\bin\Debug\Oop_V19_RecapProjects.exe.config
+C:\Users\Edleron\source\repos\Oop_r14_Attribute\Oop_V19_RecapProjects\bin\Debug\Oop_V19_RecapProjects.exe
+C:\Users\Edleron\source\repos\Oop_r14_Attribute\Oop_V19_RecapProjects\bin\Debug\Oop_V19_RecapProjects.pdb
+C:\Users\Edleron\source\repos\Oop_r14_Attribute\Oop_V19_RecapProjects\bin\Debug\EntityFramework.dll
+C:\Users\Edleron\source\repos\Oop_r14_Attribute\Oop_V19_RecapProjects\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Edleron\source\repos\Oop_r14_Attribute\Oop_V19_RecapProjects\bin\Debug\EntityFramework.xml
+C:\Users\Edleron\source\repos\Oop_r14_Attribute\Oop_V19_RecapProjects\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Edleron\source\repos\Oop_r14_Attribute\Oop_V19_RecapProjects\obj\Debug\Oop_V19_RecapProjects.Properties.Resources.resources
+C:\Users\Edleron\source\repos\Oop_r14_Attribute\Oop_V19_RecapProjects\obj\Debug\Oop_V19_RecapProjects.RecapDemo.resources
+C:\Users\Edleron\source\repos\Oop_r14_Attribute\Oop_V19_RecapProjects\obj\Debug\Oop_V19_RecapProjects.csproj.GenerateResource.cache
+C:\Users\Edleron\source\repos\Oop_r14_Attribute\Oop_V19_RecapProjects\obj\Debug\Oop_V19_RecapProjects.csproj.CoreCompileInputs.cache
+C:\Users\Edleron\source\repos\Oop_r14_Attribute\Oop_V19_RecapProjects\obj\Debug\Oop_V19_RecapProjects.csproj.CopyComplete
+C:\Users\Edleron\source\repos\Oop_r14_Attribute\Oop_V19_RecapProjects\obj\Debug\Oop_V19_RecapProjects.exe
+C:\Users\Edleron\source\repos\Oop_r14_Attribute\Oop_V19_RecapProjects\obj\Debug\Oop_V19_RecapProjects.pdb
+C:\Users\Edleron\source\repos\Oop_r14_Attribute\Oop_V19_RecapProjects\obj\Debug\Oop_V19_RecapProjects.csprojAssemblyReference.cache
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-2\Oop_V19_RecapProjects\bin\Debug\Oop_V19_RecapProjects.exe.config
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-2\Oop_V19_RecapProjects\bin\Debug\Oop_V19_RecapProjects.exe
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-2\Oop_V19_RecapProjects\bin\Debug\Oop_V19_RecapProjects.pdb
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-2\Oop_V19_RecapProjects\bin\Debug\EntityFramework.dll
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-2\Oop_V19_RecapProjects\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-2\Oop_V19_RecapProjects\bin\Debug\EntityFramework.xml
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-2\Oop_V19_RecapProjects\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-2\Oop_V19_RecapProjects\obj\Debug\Oop_V19_RecapProjects.csprojAssemblyReference.cache
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-2\Oop_V19_RecapProjects\obj\Debug\Oop_V19_RecapProjects.Properties.Resources.resources
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-2\Oop_V19_RecapProjects\obj\Debug\Oop_V19_RecapProjects.RecapDemo.resources
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-2\Oop_V19_RecapProjects\obj\Debug\Oop_V19_RecapProjects.csproj.GenerateResource.cache
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-2\Oop_V19_RecapProjects\obj\Debug\Oop_V19_RecapProjects.csproj.CoreCompileInputs.cache
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-2\Oop_V19_RecapProjects\obj\Debug\Oop_V19_RecapProjects.csproj.CopyComplete
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-2\Oop_V19_RecapProjects\obj\Debug\Oop_V19_RecapProjects.exe
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-2\Oop_V19_RecapProjects\obj\Debug\Oop_V19_RecapProjects.pdb

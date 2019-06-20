@@ -1,0 +1,30 @@
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop_n14_EntityFrameWork\bin\Debug\Oop_n14_EntityFrameWork.exe.config
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop_n14_EntityFrameWork\bin\Debug\Oop_n14_EntityFrameWork.exe
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop_n14_EntityFrameWork\bin\Debug\Oop_n14_EntityFrameWork.pdb
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop_n14_EntityFrameWork\obj\Debug\Oop_n14_EntityFrameWork.csprojAssemblyReference.cache
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop_n14_EntityFrameWork\obj\Debug\Oop_n14_EntityFrameWork.Form1.resources
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop_n14_EntityFrameWork\obj\Debug\Oop_n14_EntityFrameWork.Properties.Resources.resources
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop_n14_EntityFrameWork\obj\Debug\Oop_n14_EntityFrameWork.csproj.GenerateResource.cache
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop_n14_EntityFrameWork\obj\Debug\Oop_n14_EntityFrameWork.csproj.CoreCompileInputs.cache
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop_n14_EntityFrameWork\obj\Debug\Oop_n14_EntityFrameWork.exe
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop_n14_EntityFrameWork\obj\Debug\Oop_n14_EntityFrameWork.pdb
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop_n14_EntityFrameWork\bin\Debug\EntityFramework.dll
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop_n14_EntityFrameWork\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop_n14_EntityFrameWork\bin\Debug\EntityFramework.xml
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop_n14_EntityFrameWork\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop_n14_EntityFrameWork\obj\Debug\Oop_n14_EntityFrameWork.csproj.CopyComplete
+C:\Users\C4_Ertugrul\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-1\Oop_n14_EntityFrameWork\bin\Debug\Oop_n14_EntityFrameWork.exe.config
+C:\Users\C4_Ertugrul\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-1\Oop_n14_EntityFrameWork\bin\Debug\Oop_n14_EntityFrameWork.exe
+C:\Users\C4_Ertugrul\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-1\Oop_n14_EntityFrameWork\bin\Debug\Oop_n14_EntityFrameWork.pdb
+C:\Users\C4_Ertugrul\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-1\Oop_n14_EntityFrameWork\bin\Debug\EntityFramework.dll
+C:\Users\C4_Ertugrul\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-1\Oop_n14_EntityFrameWork\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\C4_Ertugrul\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-1\Oop_n14_EntityFrameWork\bin\Debug\EntityFramework.xml
+C:\Users\C4_Ertugrul\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-1\Oop_n14_EntityFrameWork\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\C4_Ertugrul\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-1\Oop_n14_EntityFrameWork\obj\Debug\Oop_n14_EntityFrameWork.csprojAssemblyReference.cache
+C:\Users\C4_Ertugrul\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-1\Oop_n14_EntityFrameWork\obj\Debug\Oop_n14_EntityFrameWork.Form1.resources
+C:\Users\C4_Ertugrul\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-1\Oop_n14_EntityFrameWork\obj\Debug\Oop_n14_EntityFrameWork.Properties.Resources.resources
+C:\Users\C4_Ertugrul\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-1\Oop_n14_EntityFrameWork\obj\Debug\Oop_n14_EntityFrameWork.csproj.GenerateResource.cache
+C:\Users\C4_Ertugrul\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-1\Oop_n14_EntityFrameWork\obj\Debug\Oop_n14_EntityFrameWork.csproj.CoreCompileInputs.cache
+C:\Users\C4_Ertugrul\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-1\Oop_n14_EntityFrameWork\obj\Debug\Oop_n14_EntityFrameWork.csproj.CopyComplete
+C:\Users\C4_Ertugrul\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-1\Oop_n14_EntityFrameWork\obj\Debug\Oop_n14_EntityFrameWork.exe
+C:\Users\C4_Ertugrul\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-1\Oop_n14_EntityFrameWork\obj\Debug\Oop_n14_EntityFrameWork.pdb

@@ -1,0 +1,11 @@
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop7Demo\bin\Debug\netcoreapp2.1\Oop-7-Demo.deps.json
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop7Demo\bin\Debug\netcoreapp2.1\Oop-7-Demo.runtimeconfig.json
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop7Demo\bin\Debug\netcoreapp2.1\Oop-7-Demo.runtimeconfig.dev.json
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop7Demo\bin\Debug\netcoreapp2.1\Oop-7-Demo.dll
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop7Demo\bin\Debug\netcoreapp2.1\Oop-7-Demo.pdb
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop7Demo\obj\Debug\netcoreapp2.1\Oop-7-Demo.csprojAssemblyReference.cache
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop7Demo\obj\Debug\netcoreapp2.1\Oop-7-Demo.csproj.CoreCompileInputs.cache
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop7Demo\obj\Debug\netcoreapp2.1\Oop-7-Demo.AssemblyInfoInputs.cache
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop7Demo\obj\Debug\netcoreapp2.1\Oop-7-Demo.AssemblyInfo.cs
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop7Demo\obj\Debug\netcoreapp2.1\Oop-7-Demo.dll
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop7Demo\obj\Debug\netcoreapp2.1\Oop-7-Demo.pdb

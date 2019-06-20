@@ -1,0 +1,11 @@
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Constructors\bin\Debug\netcoreapp2.1\Oop9Constructors.deps.json
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Constructors\bin\Debug\netcoreapp2.1\Oop9Constructors.runtimeconfig.json
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Constructors\bin\Debug\netcoreapp2.1\Oop9Constructors.runtimeconfig.dev.json
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Constructors\bin\Debug\netcoreapp2.1\Oop9Constructors.dll
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Constructors\bin\Debug\netcoreapp2.1\Oop9Constructors.pdb
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Constructors\obj\Debug\netcoreapp2.1\Oop9Constructors.csprojAssemblyReference.cache
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Constructors\obj\Debug\netcoreapp2.1\Oop9Constructors.csproj.CoreCompileInputs.cache
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Constructors\obj\Debug\netcoreapp2.1\Oop9Constructors.AssemblyInfoInputs.cache
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Constructors\obj\Debug\netcoreapp2.1\Oop9Constructors.AssemblyInfo.cs
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Constructors\obj\Debug\netcoreapp2.1\Oop9Constructors.dll
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Constructors\obj\Debug\netcoreapp2.1\Oop9Constructors.pdb

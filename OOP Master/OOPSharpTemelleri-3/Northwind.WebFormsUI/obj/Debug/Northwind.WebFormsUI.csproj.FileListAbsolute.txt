@@ -1,0 +1,114 @@
+C:\Users\Edleron\source\repos\Oop_x_NlayeredApp\Northwind.WebFormsUI\bin\Debug\Northwind.WebFormsUI.exe.config
+C:\Users\Edleron\source\repos\Oop_x_NlayeredApp\Northwind.WebFormsUI\bin\Debug\Northwind.WebFormsUI.exe
+C:\Users\Edleron\source\repos\Oop_x_NlayeredApp\Northwind.WebFormsUI\bin\Debug\Northwind.WebFormsUI.pdb
+C:\Users\Edleron\source\repos\Oop_x_NlayeredApp\Northwind.WebFormsUI\bin\Debug\EntityFramework.dll
+C:\Users\Edleron\source\repos\Oop_x_NlayeredApp\Northwind.WebFormsUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Edleron\source\repos\Oop_x_NlayeredApp\Northwind.WebFormsUI\bin\Debug\Northwind.Business.dll
+C:\Users\Edleron\source\repos\Oop_x_NlayeredApp\Northwind.WebFormsUI\bin\Debug\Northwind.Entites.dll
+C:\Users\Edleron\source\repos\Oop_x_NlayeredApp\Northwind.WebFormsUI\bin\Debug\Northwind.DataAccess.dll
+C:\Users\Edleron\source\repos\Oop_x_NlayeredApp\Northwind.WebFormsUI\bin\Debug\Northwind.Business.pdb
+C:\Users\Edleron\source\repos\Oop_x_NlayeredApp\Northwind.WebFormsUI\bin\Debug\Northwind.Entites.pdb
+C:\Users\Edleron\source\repos\Oop_x_NlayeredApp\Northwind.WebFormsUI\bin\Debug\EntityFramework.xml
+C:\Users\Edleron\source\repos\Oop_x_NlayeredApp\Northwind.WebFormsUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Edleron\source\repos\Oop_x_NlayeredApp\Northwind.WebFormsUI\bin\Debug\Northwind.DataAccess.pdb
+C:\Users\Edleron\source\repos\Oop_x_NlayeredApp\Northwind.WebFormsUI\bin\Debug\Northwind.DataAccess.dll.config
+C:\Users\Edleron\source\repos\Oop_x_NlayeredApp\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.csprojAssemblyReference.cache
+C:\Users\Edleron\source\repos\Oop_x_NlayeredApp\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.Form1.resources
+C:\Users\Edleron\source\repos\Oop_x_NlayeredApp\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.Properties.Resources.resources
+C:\Users\Edleron\source\repos\Oop_x_NlayeredApp\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.csproj.GenerateResource.cache
+C:\Users\Edleron\source\repos\Oop_x_NlayeredApp\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.csproj.CoreCompileInputs.cache
+C:\Users\Edleron\source\repos\Oop_x_NlayeredApp\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.csproj.CopyComplete
+C:\Users\Edleron\source\repos\Oop_x_NlayeredApp\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.exe
+C:\Users\Edleron\source\repos\Oop_x_NlayeredApp\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.pdb
+K:\Oop_x_NlayeredApp\Northwind.WebFormsUI\bin\Debug\Northwind.WebFormsUI.exe.config
+K:\Oop_x_NlayeredApp\Northwind.WebFormsUI\bin\Debug\Northwind.WebFormsUI.exe
+K:\Oop_x_NlayeredApp\Northwind.WebFormsUI\bin\Debug\Northwind.WebFormsUI.pdb
+K:\Oop_x_NlayeredApp\Northwind.WebFormsUI\bin\Debug\EntityFramework.dll
+K:\Oop_x_NlayeredApp\Northwind.WebFormsUI\bin\Debug\EntityFramework.SqlServer.dll
+K:\Oop_x_NlayeredApp\Northwind.WebFormsUI\bin\Debug\Northwind.Business.dll
+K:\Oop_x_NlayeredApp\Northwind.WebFormsUI\bin\Debug\Northwind.Entites.dll
+K:\Oop_x_NlayeredApp\Northwind.WebFormsUI\bin\Debug\Northwind.DataAccess.dll
+K:\Oop_x_NlayeredApp\Northwind.WebFormsUI\bin\Debug\Northwind.Business.pdb
+K:\Oop_x_NlayeredApp\Northwind.WebFormsUI\bin\Debug\Northwind.Entites.pdb
+K:\Oop_x_NlayeredApp\Northwind.WebFormsUI\bin\Debug\EntityFramework.xml
+K:\Oop_x_NlayeredApp\Northwind.WebFormsUI\bin\Debug\EntityFramework.SqlServer.xml
+K:\Oop_x_NlayeredApp\Northwind.WebFormsUI\bin\Debug\Northwind.DataAccess.pdb
+K:\Oop_x_NlayeredApp\Northwind.WebFormsUI\bin\Debug\Northwind.DataAccess.dll.config
+K:\Oop_x_NlayeredApp\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.csprojAssemblyReference.cache
+K:\Oop_x_NlayeredApp\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.Form1.resources
+K:\Oop_x_NlayeredApp\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.Properties.Resources.resources
+K:\Oop_x_NlayeredApp\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.csproj.GenerateResource.cache
+K:\Oop_x_NlayeredApp\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.csproj.CoreCompileInputs.cache
+K:\Oop_x_NlayeredApp\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.csproj.CopyComplete
+K:\Oop_x_NlayeredApp\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.exe
+K:\Oop_x_NlayeredApp\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.pdb
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.WebFormsUI\bin\Debug\Northwind.WebFormsUI.exe.config
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.WebFormsUI\bin\Debug\Northwind.WebFormsUI.exe
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.WebFormsUI\bin\Debug\Northwind.WebFormsUI.pdb
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.WebFormsUI\bin\Debug\EntityFramework.dll
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.WebFormsUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.WebFormsUI\bin\Debug\Northwind.Business.dll
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.WebFormsUI\bin\Debug\Northwind.Entites.dll
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.WebFormsUI\bin\Debug\Northwind.DataAccess.dll
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.WebFormsUI\bin\Debug\Northwind.Business.pdb
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.WebFormsUI\bin\Debug\Northwind.Entites.pdb
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.WebFormsUI\bin\Debug\EntityFramework.xml
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.WebFormsUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.WebFormsUI\bin\Debug\Northwind.DataAccess.pdb
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.WebFormsUI\bin\Debug\Northwind.DataAccess.dll.config
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.csprojAssemblyReference.cache
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.Form1.resources
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.Properties.Resources.resources
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.csproj.GenerateResource.cache
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.csproj.CoreCompileInputs.cache
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.csproj.CopyComplete
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.exe
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.pdb
+C:\Users\Edleron\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.WebFormsUI\bin\Debug\Northwind.WebFormsUI.exe.config
+C:\Users\Edleron\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.WebFormsUI\bin\Debug\Northwind.WebFormsUI.exe
+C:\Users\Edleron\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.WebFormsUI\bin\Debug\Northwind.WebFormsUI.pdb
+C:\Users\Edleron\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.WebFormsUI\bin\Debug\EntityFramework.dll
+C:\Users\Edleron\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.WebFormsUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Edleron\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.WebFormsUI\bin\Debug\Northwind.Business.dll
+C:\Users\Edleron\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.WebFormsUI\bin\Debug\Northwind.DataAccess.dll
+C:\Users\Edleron\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.WebFormsUI\bin\Debug\Northwind.Entites.dll
+C:\Users\Edleron\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.WebFormsUI\bin\Debug\Northwind.Business.pdb
+C:\Users\Edleron\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.WebFormsUI\bin\Debug\Northwind.DataAccess.pdb
+C:\Users\Edleron\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.WebFormsUI\bin\Debug\Northwind.DataAccess.dll.config
+C:\Users\Edleron\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.WebFormsUI\bin\Debug\Northwind.Entites.pdb
+C:\Users\Edleron\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.WebFormsUI\bin\Debug\EntityFramework.xml
+C:\Users\Edleron\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.WebFormsUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Edleron\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.csprojAssemblyReference.cache
+C:\Users\Edleron\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.Form1.resources
+C:\Users\Edleron\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.Properties.Resources.resources
+C:\Users\Edleron\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.csproj.GenerateResource.cache
+C:\Users\Edleron\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.csproj.CoreCompileInputs.cache
+C:\Users\Edleron\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.csproj.CopyComplete
+C:\Users\Edleron\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.exe
+C:\Users\Edleron\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.pdb
+C:\Users\Edleron\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.WebFormsUI\bin\Debug\Northwind.Business.dll.config
+C:\Users\C4_Ertugrul\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.WebFormsUI\bin\Debug\Northwind.WebFormsUI.exe.config
+C:\Users\C4_Ertugrul\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.WebFormsUI\bin\Debug\Northwind.WebFormsUI.exe
+C:\Users\C4_Ertugrul\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.WebFormsUI\bin\Debug\Northwind.WebFormsUI.pdb
+C:\Users\C4_Ertugrul\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.WebFormsUI\bin\Debug\EntityFramework.dll
+C:\Users\C4_Ertugrul\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.WebFormsUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\C4_Ertugrul\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.WebFormsUI\bin\Debug\Northwind.Business.dll
+C:\Users\C4_Ertugrul\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.WebFormsUI\bin\Debug\Northwind.DataAccess.dll
+C:\Users\C4_Ertugrul\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.WebFormsUI\bin\Debug\Northwind.Entites.dll
+C:\Users\C4_Ertugrul\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.WebFormsUI\bin\Debug\FluentValidation.dll
+C:\Users\C4_Ertugrul\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.WebFormsUI\bin\Debug\Northwind.Business.pdb
+C:\Users\C4_Ertugrul\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.WebFormsUI\bin\Debug\Northwind.Business.dll.config
+C:\Users\C4_Ertugrul\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.WebFormsUI\bin\Debug\Northwind.DataAccess.pdb
+C:\Users\C4_Ertugrul\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.WebFormsUI\bin\Debug\Northwind.DataAccess.dll.config
+C:\Users\C4_Ertugrul\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.WebFormsUI\bin\Debug\Northwind.Entites.pdb
+C:\Users\C4_Ertugrul\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.WebFormsUI\bin\Debug\EntityFramework.xml
+C:\Users\C4_Ertugrul\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.WebFormsUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\C4_Ertugrul\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.WebFormsUI\bin\Debug\FluentValidation.xml
+C:\Users\C4_Ertugrul\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.csprojAssemblyReference.cache
+C:\Users\C4_Ertugrul\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.Form1.resources
+C:\Users\C4_Ertugrul\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.Properties.Resources.resources
+C:\Users\C4_Ertugrul\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.csproj.GenerateResource.cache
+C:\Users\C4_Ertugrul\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.csproj.CoreCompileInputs.cache
+C:\Users\C4_Ertugrul\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.csproj.CopyComplete
+C:\Users\C4_Ertugrul\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.exe
+C:\Users\C4_Ertugrul\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.pdb

@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\C4_Ozgur\\source\\repos\\OOPSharpTemelleri\\Oop6AbstractClasses\\Oop6AbstractClasses.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\C4_Ozgur\\source\\repos\\OOPSharpTemelleri\\Oop6AbstractClasses\\Oop6AbstractClasses.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\C4_Ozgur\\source\\repos\\OOPSharpTemelleri\\Oop6AbstractClasses\\Oop6AbstractClasses.csproj",
+        "projectName": "Oop6AbstractClasses",
+        "projectPath": "C:\\Users\\C4_Ozgur\\source\\repos\\OOPSharpTemelleri\\Oop6AbstractClasses\\Oop6AbstractClasses.csproj",
+        "packagesPath": "C:\\Users\\C4_Ozgur\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\C4_Ozgur\\source\\repos\\OOPSharpTemelleri\\Oop6AbstractClasses\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\C4_Ozgur\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

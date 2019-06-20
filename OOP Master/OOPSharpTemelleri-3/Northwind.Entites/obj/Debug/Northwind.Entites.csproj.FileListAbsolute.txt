@@ -1,0 +1,24 @@
+C:\Users\Edleron\source\repos\Oop_x_NlayeredApp\Northwind.Entites\bin\Debug\Northwind.Entites.dll
+C:\Users\Edleron\source\repos\Oop_x_NlayeredApp\Northwind.Entites\bin\Debug\Northwind.Entites.pdb
+C:\Users\Edleron\source\repos\Oop_x_NlayeredApp\Northwind.Entites\obj\Debug\Northwind.Entites.csprojAssemblyReference.cache
+C:\Users\Edleron\source\repos\Oop_x_NlayeredApp\Northwind.Entites\obj\Debug\Northwind.Entites.csproj.CoreCompileInputs.cache
+C:\Users\Edleron\source\repos\Oop_x_NlayeredApp\Northwind.Entites\obj\Debug\Northwind.Entites.dll
+C:\Users\Edleron\source\repos\Oop_x_NlayeredApp\Northwind.Entites\obj\Debug\Northwind.Entites.pdb
+K:\Oop_x_NlayeredApp\Northwind.Entites\bin\Debug\Northwind.Entites.dll
+K:\Oop_x_NlayeredApp\Northwind.Entites\bin\Debug\Northwind.Entites.pdb
+K:\Oop_x_NlayeredApp\Northwind.Entites\obj\Debug\Northwind.Entites.csprojAssemblyReference.cache
+K:\Oop_x_NlayeredApp\Northwind.Entites\obj\Debug\Northwind.Entites.csproj.CoreCompileInputs.cache
+K:\Oop_x_NlayeredApp\Northwind.Entites\obj\Debug\Northwind.Entites.dll
+K:\Oop_x_NlayeredApp\Northwind.Entites\obj\Debug\Northwind.Entites.pdb
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.Entites\bin\Debug\Northwind.Entites.dll
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.Entites\bin\Debug\Northwind.Entites.pdb
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.Entites\obj\Debug\Northwind.Entites.csprojAssemblyReference.cache
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.Entites\obj\Debug\Northwind.Entites.csproj.CoreCompileInputs.cache
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.Entites\obj\Debug\Northwind.Entites.dll
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.Entites\obj\Debug\Northwind.Entites.pdb
+C:\Users\Edleron\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.Entites\bin\Debug\Northwind.Entites.dll
+C:\Users\Edleron\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.Entites\bin\Debug\Northwind.Entites.pdb
+C:\Users\Edleron\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.Entites\obj\Debug\Northwind.Entites.csprojAssemblyReference.cache
+C:\Users\Edleron\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.Entites\obj\Debug\Northwind.Entites.csproj.CoreCompileInputs.cache
+C:\Users\Edleron\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.Entites\obj\Debug\Northwind.Entites.dll
+C:\Users\Edleron\source\repos\OOP Temelleri - Engin Demiroğ\OOPSharpTemelleri-3\Northwind.Entites\obj\Debug\Northwind.Entites.pdb

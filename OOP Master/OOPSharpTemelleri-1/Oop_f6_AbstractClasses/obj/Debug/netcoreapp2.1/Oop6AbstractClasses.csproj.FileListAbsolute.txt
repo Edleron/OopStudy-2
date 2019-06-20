@@ -1,0 +1,10 @@
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop6AbstractClasses\bin\Debug\netcoreapp2.1\Oop6AbstractClasses.deps.json
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop6AbstractClasses\bin\Debug\netcoreapp2.1\Oop6AbstractClasses.runtimeconfig.json
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop6AbstractClasses\bin\Debug\netcoreapp2.1\Oop6AbstractClasses.runtimeconfig.dev.json
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop6AbstractClasses\bin\Debug\netcoreapp2.1\Oop6AbstractClasses.dll
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop6AbstractClasses\bin\Debug\netcoreapp2.1\Oop6AbstractClasses.pdb
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop6AbstractClasses\obj\Debug\netcoreapp2.1\Oop6AbstractClasses.csproj.CoreCompileInputs.cache
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop6AbstractClasses\obj\Debug\netcoreapp2.1\Oop6AbstractClasses.AssemblyInfoInputs.cache
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop6AbstractClasses\obj\Debug\netcoreapp2.1\Oop6AbstractClasses.AssemblyInfo.cs
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop6AbstractClasses\obj\Debug\netcoreapp2.1\Oop6AbstractClasses.dll
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop6AbstractClasses\obj\Debug\netcoreapp2.1\Oop6AbstractClasses.pdb

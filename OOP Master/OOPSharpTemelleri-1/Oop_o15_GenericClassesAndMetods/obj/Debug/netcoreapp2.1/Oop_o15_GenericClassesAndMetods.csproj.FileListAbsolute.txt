@@ -1,0 +1,22 @@
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop_o15_GenericClassesAndMetods\bin\Debug\netcoreapp2.1\Oop_o15_GenericClassesAndMetods.deps.json
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop_o15_GenericClassesAndMetods\bin\Debug\netcoreapp2.1\Oop_o15_GenericClassesAndMetods.runtimeconfig.json
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop_o15_GenericClassesAndMetods\bin\Debug\netcoreapp2.1\Oop_o15_GenericClassesAndMetods.runtimeconfig.dev.json
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop_o15_GenericClassesAndMetods\bin\Debug\netcoreapp2.1\Oop_o15_GenericClassesAndMetods.dll
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop_o15_GenericClassesAndMetods\bin\Debug\netcoreapp2.1\Oop_o15_GenericClassesAndMetods.pdb
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop_o15_GenericClassesAndMetods\obj\Debug\netcoreapp2.1\Oop_o15_GenericClassesAndMetods.csprojAssemblyReference.cache
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop_o15_GenericClassesAndMetods\obj\Debug\netcoreapp2.1\Oop_o15_GenericClassesAndMetods.csproj.CoreCompileInputs.cache
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop_o15_GenericClassesAndMetods\obj\Debug\netcoreapp2.1\Oop_o15_GenericClassesAndMetods.AssemblyInfoInputs.cache
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop_o15_GenericClassesAndMetods\obj\Debug\netcoreapp2.1\Oop_o15_GenericClassesAndMetods.AssemblyInfo.cs
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop_o15_GenericClassesAndMetods\obj\Debug\netcoreapp2.1\Oop_o15_GenericClassesAndMetods.dll
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop_o15_GenericClassesAndMetods\obj\Debug\netcoreapp2.1\Oop_o15_GenericClassesAndMetods.pdb
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri\OOPSharpTemelleri-1\Oop_o15_GenericClassesAndMetods\bin\Debug\netcoreapp2.1\Oop_o15_GenericClassesAndMetods.deps.json
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri\OOPSharpTemelleri-1\Oop_o15_GenericClassesAndMetods\bin\Debug\netcoreapp2.1\Oop_o15_GenericClassesAndMetods.runtimeconfig.json
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri\OOPSharpTemelleri-1\Oop_o15_GenericClassesAndMetods\bin\Debug\netcoreapp2.1\Oop_o15_GenericClassesAndMetods.runtimeconfig.dev.json
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri\OOPSharpTemelleri-1\Oop_o15_GenericClassesAndMetods\bin\Debug\netcoreapp2.1\Oop_o15_GenericClassesAndMetods.dll
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri\OOPSharpTemelleri-1\Oop_o15_GenericClassesAndMetods\bin\Debug\netcoreapp2.1\Oop_o15_GenericClassesAndMetods.pdb
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri\OOPSharpTemelleri-1\Oop_o15_GenericClassesAndMetods\obj\Debug\netcoreapp2.1\Oop_o15_GenericClassesAndMetods.csprojAssemblyReference.cache
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri\OOPSharpTemelleri-1\Oop_o15_GenericClassesAndMetods\obj\Debug\netcoreapp2.1\Oop_o15_GenericClassesAndMetods.csproj.CoreCompileInputs.cache
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri\OOPSharpTemelleri-1\Oop_o15_GenericClassesAndMetods\obj\Debug\netcoreapp2.1\Oop_o15_GenericClassesAndMetods.AssemblyInfoInputs.cache
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri\OOPSharpTemelleri-1\Oop_o15_GenericClassesAndMetods\obj\Debug\netcoreapp2.1\Oop_o15_GenericClassesAndMetods.AssemblyInfo.cs
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri\OOPSharpTemelleri-1\Oop_o15_GenericClassesAndMetods\obj\Debug\netcoreapp2.1\Oop_o15_GenericClassesAndMetods.dll
+C:\Users\C4_Ozgur\source\repos\OOP Temelleri\OOPSharpTemelleri-1\Oop_o15_GenericClassesAndMetods\obj\Debug\netcoreapp2.1\Oop_o15_GenericClassesAndMetods.pdb

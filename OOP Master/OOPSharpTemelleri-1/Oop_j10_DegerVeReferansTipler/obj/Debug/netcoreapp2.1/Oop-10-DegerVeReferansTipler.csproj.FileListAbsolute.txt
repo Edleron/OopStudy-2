@@ -1,0 +1,10 @@
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop10DegerVeReferansTipler\bin\Debug\netcoreapp2.1\Oop-10-DegerVeReferansTipler.deps.json
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop10DegerVeReferansTipler\bin\Debug\netcoreapp2.1\Oop-10-DegerVeReferansTipler.runtimeconfig.json
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop10DegerVeReferansTipler\bin\Debug\netcoreapp2.1\Oop-10-DegerVeReferansTipler.runtimeconfig.dev.json
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop10DegerVeReferansTipler\bin\Debug\netcoreapp2.1\Oop-10-DegerVeReferansTipler.dll
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop10DegerVeReferansTipler\bin\Debug\netcoreapp2.1\Oop-10-DegerVeReferansTipler.pdb
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop10DegerVeReferansTipler\obj\Debug\netcoreapp2.1\Oop-10-DegerVeReferansTipler.csproj.CoreCompileInputs.cache
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop10DegerVeReferansTipler\obj\Debug\netcoreapp2.1\Oop-10-DegerVeReferansTipler.AssemblyInfoInputs.cache
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop10DegerVeReferansTipler\obj\Debug\netcoreapp2.1\Oop-10-DegerVeReferansTipler.AssemblyInfo.cs
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop10DegerVeReferansTipler\obj\Debug\netcoreapp2.1\Oop-10-DegerVeReferansTipler.dll
+C:\Users\C4_Ozgur\source\repos\OOPSharpTemelleri\Oop10DegerVeReferansTipler\obj\Debug\netcoreapp2.1\Oop-10-DegerVeReferansTipler.pdb
